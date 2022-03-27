@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "First Central Kata", "First Central Kata\First Central Kata.csproj", "{506FDE76-7079-4B75-8F01-10E52D05D963}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checkout Test", "Checkout Test\Checkout Test.csproj", "{378F0C35-9CA0-4BBD-9A96-ECBB8500ED5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{506FDE76-7079-4B75-8F01-10E52D05D963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{506FDE76-7079-4B75-8F01-10E52D05D963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{506FDE76-7079-4B75-8F01-10E52D05D963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{506FDE76-7079-4B75-8F01-10E52D05D963}.Release|Any CPU.Build.0 = Release|Any CPU
+		{378F0C35-9CA0-4BBD-9A96-ECBB8500ED5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{378F0C35-9CA0-4BBD-9A96-ECBB8500ED5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{378F0C35-9CA0-4BBD-9A96-ECBB8500ED5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{378F0C35-9CA0-4BBD-9A96-ECBB8500ED5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB8AA77D-D9B7-4929-BE3A-70E7F8ECBAF4}
+	EndGlobalSection
+EndGlobal
